@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "B61AE896-111B-47B0-A52B-65B45ECC9F6B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 38,
+    "width": 500,
+    "x": 156,
+    "y": 102
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "features - long",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "1185B869-DA78-4F5E-9A29-952603E9BB40_stringValue",
+      "value": "Stand to win an all-new Mercedes-Benz C-Class Cabriolet or Dream Holidays."
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "4551AEBF-1556-4C18-B1E2-D46DA51A6B04_symbolID",
+      "value": "28704C69-3ACF-4D43-9D50-B5622F4F8A73"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F4EA510C-E601-4B66-A207-7A0CE2586F30",
+  "verticalSpacing": 0
+}

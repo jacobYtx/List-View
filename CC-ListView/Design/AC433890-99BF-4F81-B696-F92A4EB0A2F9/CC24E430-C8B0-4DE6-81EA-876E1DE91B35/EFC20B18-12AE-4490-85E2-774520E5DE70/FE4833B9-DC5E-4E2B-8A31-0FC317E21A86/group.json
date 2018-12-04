@@ -1,0 +1,92 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "FE4833B9-DC5E-4E2B-8A31-0FC317E21A86",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 71,
+    "width": 86,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "8AFCEAF0-F704-4968-90EF-3ED46E07487E"
+    },
+    {
+      "class": "rectangle",
+      "id": "0EAAD4DB-4D25-4EE2-B9FF-C2091A3EF93B"
+    },
+    {
+      "class": "rectangle",
+      "id": "D2FC5E08-DB19-457A-A665-6926CCE2D69B"
+    },
+    {
+      "class": "rectangle",
+      "id": "DFBBD7E8-6B13-40AD-B82D-3928507179A7"
+    },
+    {
+      "class": "rectangle",
+      "id": "C9CB6732-7188-4FF4-9C9F-07CA33CB8EA1"
+    },
+    {
+      "class": "rectangle",
+      "id": "894DE8D9-A2C1-4E55-BDC7-75D7402C3F25"
+    },
+    {
+      "class": "rectangle",
+      "id": "A2577922-4F94-4AA5-865C-C0297BD6E020"
+    }
+  ],
+  "name": "Group",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "CEDB6F16-0574-48B3-BC08-03ACA8DC4220",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 207,
+    "width": 186,
+    "x": 953,
+    "y": 82
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "18E6359A-B40E-4D96-833C-7053051B10A1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5BB6427B-D8CB-4639-99D4-FA0CCA13F8B3"
+    },
+    {
+      "class": "shapePath",
+      "id": "FB14577C-E2A3-4ECD-A425-7E19EB51EEA4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "42200F11-5841-449A-9B16-C53C324BBED3"
+    },
+    {
+      "class": "shapePath",
+      "id": "68738992-85BD-4030-8454-1BFA2555469D"
+    },
+    {
+      "class": "shapePath",
+      "id": "A6463450-892D-4BC6-8CA3-05F271E82A0F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2BE5985E-F02F-4A5F-A8A2-83087433C5AB"
+    },
+    {
+      "class": "shapePath",
+      "id": "4C4D0979-6F55-4E5A-9A3C-F0FF3FB0F5F7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FBC8EE36-2670-4DCB-A3A3-F45AE69B8CB7"
+    },
+    {
+      "class": "shapePath",
+      "id": "82FC07A2-D6F4-481E-A9BE-1920E37930DF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "211838B5-C9F0-4400-AB0B-CC63CC05ED3F"
+    },
+    {
+      "class": "shapePath",
+      "id": "349025C9-494E-409A-93E2-47510E585E8D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "40A1D05D-9C8D-446E-9D78-221CA19CAC39"
+    },
+    {
+      "class": "shapePath",
+      "id": "16435AAA-5D2B-40A8-BB74-D980E0D21633"
+    }
+  ],
+  "name": "Asset 1",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

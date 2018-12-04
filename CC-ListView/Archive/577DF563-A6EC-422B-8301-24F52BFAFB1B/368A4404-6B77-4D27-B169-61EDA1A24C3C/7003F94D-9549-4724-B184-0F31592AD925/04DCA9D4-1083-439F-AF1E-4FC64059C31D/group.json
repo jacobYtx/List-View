@@ -1,0 +1,94 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "04DCA9D4-1083-439F-AF1E-4FC64059C31D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 184,
+    "width": 196,
+    "x": 0,
+    "y": 154
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "E02F5915-091B-4F67-9E48-CF8EBAFFFDD0"
+    },
+    {
+      "class": "rectangle",
+      "id": "D6D089D6-3D04-4757-A8CD-899F069CC3CD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B0B3E439-5634-4F7D-9CDB-DD207C0B7F58"
+    },
+    {
+      "class": "rectangle",
+      "id": "574D5E71-376A-4151-83A5-6C38EEFD5D25"
+    },
+    {
+      "class": "rectangle",
+      "id": "ECC627F4-D0F1-4702-8A39-6ED1903FF641"
+    },
+    {
+      "class": "text",
+      "id": "A3176CB0-AA05-4668-B8DB-15FF450F466C"
+    },
+    {
+      "class": "group",
+      "id": "D46D88BF-7760-409A-8667-E3050BE87C1C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1B9D88C6-B72A-490B-8009-302917FE7008"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DA6A0866-5C02-4329-9426-135A5ED07446"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A24B8B93-E3AD-4A9B-B076-45D035C996B3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F1FA5C88-49F4-4198-9B41-B25DA352C93D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2C1AC1A0-90DA-407B-976C-13030B17394B"
+    }
+  ],
+  "name": "Rectangle 16 Copy 2 + Rectangle 16 Copy + List item - Check unselected + List item - Check unselected Copy + List item - Check unselected Copy 2 + List item - Check unselected Copy 3 + List item - Check unselected + List item - Check unselected Mask",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

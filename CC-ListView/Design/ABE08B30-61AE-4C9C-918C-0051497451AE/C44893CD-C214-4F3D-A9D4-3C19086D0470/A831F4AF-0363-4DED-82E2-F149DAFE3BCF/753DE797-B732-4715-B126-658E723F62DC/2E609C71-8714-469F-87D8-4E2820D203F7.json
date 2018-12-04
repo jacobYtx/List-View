@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "2E609C71-8714-469F-87D8-4E2820D203F7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 15,
+    "width": 192,
+    "x": 0,
+    "y": 165
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Category List item - Radio button - Unselect Copy 4",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "16C0132C-AB10-4305-8975-9EFC31D5F948_symbolID",
+      "value": "DC421BDA-2140-4142-A885-65E9FE2BDD70"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "51DBBDA3-03F8-48FC-BEDD-70B34948324A_stringValue",
+      "value": "Petrol"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D26D12FB-E7D3-4539-90D5-ED4E5B5472B4",
+  "verticalSpacing": 0
+}

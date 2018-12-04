@@ -1,0 +1,102 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "6A4FC2DC-AA11-4D69-BDA8-850D8DE345E7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 207,
+    "width": 186,
+    "x": 953,
+    "y": 82
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "02DB3DF6-2E07-4B0E-8B96-BA33A50CC347"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4C9565F1-7F7D-4DDD-B333-01E99BFEC5FA"
+    },
+    {
+      "class": "shapePath",
+      "id": "F755C4E4-160F-48BB-A76B-AE0472CB5CE0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2D545961-BA0E-4079-A505-EA1F9A8A10E3"
+    },
+    {
+      "class": "shapePath",
+      "id": "F7AEB004-501D-4323-B2D9-E5477B04C8AC"
+    },
+    {
+      "class": "shapePath",
+      "id": "DC75C670-5D1C-4989-90EA-8A64944B16EC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AE143B1C-E737-4629-B5E4-D7B9A57F8335"
+    },
+    {
+      "class": "shapePath",
+      "id": "7A8A8C55-8092-4659-BBD3-9C49F6E81E6F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A2921E1E-8CA9-4CAC-B268-B61760F7ADA0"
+    },
+    {
+      "class": "shapePath",
+      "id": "0AC5649F-BC87-4D4A-9B30-28C713ED23F4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "16E441D0-D8D5-491F-97F8-4DBF6823B610"
+    },
+    {
+      "class": "shapePath",
+      "id": "3440FCFB-888C-45CD-9149-D39EB043863F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E818026B-B620-439A-B06D-0AF008291B0E"
+    },
+    {
+      "class": "shapePath",
+      "id": "90CABD52-7E32-4136-8253-EA21D8FDC9CC"
+    }
+  ],
+  "name": "Asset 1",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "F59A20A9-CCBB-452F-BFF9-36A2ED4C73E1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 96,
+    "width": 169,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "C683ADF1-E6BA-4313-8FE4-ED401675E0AA"
+    },
+    {
+      "class": "rectangle",
+      "id": "7D917C0A-DEEB-40A0-AE47-B531972AF46B"
+    },
+    {
+      "class": "rectangle",
+      "id": "B4F68018-0A8C-4846-8794-6C77E8EC9815"
+    },
+    {
+      "class": "rectangle",
+      "id": "870F4472-B759-4869-8F2D-3608F960CA6C"
+    },
+    {
+      "class": "rectangle",
+      "id": "C3296301-F87E-48F4-B5E1-199BC618439F"
+    },
+    {
+      "class": "rectangle",
+      "id": "DFDC42CA-DF98-466A-A527-F5CA564036F4"
+    }
+  ],
+  "name": "Rectangle 4",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

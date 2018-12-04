@@ -1,0 +1,106 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "D9A04570-D95C-43C8-BEA1-4F3185AEAC28",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 349,
+    "width": 504,
+    "x": 48,
+    "y": 737
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "F58299A0-37D1-4945-8CD0-18C81130EF49"
+    },
+    {
+      "class": "text",
+      "id": "A7C73365-584F-45FF-8849-B46FDB7524AA"
+    },
+    {
+      "class": "text",
+      "id": "10ADEEB6-B45B-425F-A383-67BFDD3B2794"
+    },
+    {
+      "class": "text",
+      "id": "FCE19BB1-3161-4919-BA16-1D4777583AC0"
+    },
+    {
+      "class": "text",
+      "id": "3F5DB060-ABCE-40E4-95DA-6C6023495670"
+    },
+    {
+      "class": "text",
+      "id": "B3B038FC-C159-4EA5-8AF4-BD1D0F05A843"
+    },
+    {
+      "class": "text",
+      "id": "B54771E5-E097-4CA8-BD63-6271C9647DA4"
+    },
+    {
+      "class": "text",
+      "id": "05FE100E-E4D4-4559-A6EF-311F2066231D"
+    },
+    {
+      "class": "text",
+      "id": "90740289-ECEF-42D7-A63B-6BD88518561E"
+    },
+    {
+      "class": "text",
+      "id": "15210072-0E21-458C-838F-FACABC572B85"
+    },
+    {
+      "class": "text",
+      "id": "78BAECBD-F1C0-4FF9-856D-36855FF169AD"
+    },
+    {
+      "class": "text",
+      "id": "66FC4C05-F4DB-49C1-8676-22600B551322"
+    },
+    {
+      "class": "text",
+      "id": "2C568048-055B-4D53-9FCA-429C6F24F8DF"
+    },
+    {
+      "class": "text",
+      "id": "9F30E9FB-212B-4571-9119-1A1F78CDF79E"
+    },
+    {
+      "class": "text",
+      "id": "034E8C24-6CC2-4451-A4D1-494B061CB797"
+    }
+  ],
+  "name": "Group 23",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

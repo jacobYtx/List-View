@@ -1,0 +1,102 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "BD6027B2-D343-4982-885C-79917D18B22B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 207,
+    "width": 186,
+    "x": 953,
+    "y": 82
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "A46DBAF2-FEF7-4D80-B014-79551FE571CB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7D315274-ABBE-456D-8187-24CB7EDB9C73"
+    },
+    {
+      "class": "shapePath",
+      "id": "8AD0D8A6-E79F-4011-A708-D8E210796D17"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DCF6E11E-93BE-4458-B2DD-3631D2F33D32"
+    },
+    {
+      "class": "shapePath",
+      "id": "3821A03A-B174-4DC4-B49A-E2799FE28BF7"
+    },
+    {
+      "class": "shapePath",
+      "id": "F8B495BB-4586-4624-8CF8-9145953BEE05"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "02FFF0A5-6069-40A0-BCCD-5AAAFA4432B2"
+    },
+    {
+      "class": "shapePath",
+      "id": "7A652851-F1EF-496D-A2BC-5668A1730CCB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0C3C5D7B-4145-4BE0-9B3D-51881CEA574B"
+    },
+    {
+      "class": "shapePath",
+      "id": "CA6194BE-92A7-4650-B83D-43FBFAE33251"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "321C981A-D93C-4DFA-8CC3-E6F249197E4D"
+    },
+    {
+      "class": "shapePath",
+      "id": "9331E91B-4645-417A-8568-82DFD011605B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D4FC8BBC-3E20-414B-8174-D057390F2327"
+    },
+    {
+      "class": "shapePath",
+      "id": "9F2D54B0-C529-44BF-8E50-A68509D90451"
+    }
+  ],
+  "name": "Asset 1",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "7C21466F-EC31-490C-ADA2-A175DD59AE8D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 207,
+    "width": 186,
+    "x": 953,
+    "y": 82
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "FDEE0877-EF38-4BD1-AF2A-F7D23EFD78F3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "217B2E61-CAC0-47C2-94F9-FD4FF5DD94D7"
+    },
+    {
+      "class": "shapePath",
+      "id": "4CF7A6C5-8719-474A-8237-2E12E0741970"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "28726B6A-89FC-4B62-B616-B210869C7967"
+    },
+    {
+      "class": "shapePath",
+      "id": "2EF3B726-A194-400F-8E15-B9581D3B69AC"
+    },
+    {
+      "class": "shapePath",
+      "id": "EA2E6787-EFAF-4E9E-9693-6174D4D6133D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7AB40E8F-0D4E-41D1-89BC-ABB366ACB9EF"
+    },
+    {
+      "class": "shapePath",
+      "id": "19C18581-CBAA-441C-BDF4-D8C6DBE19641"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FDE13F59-63D5-4B01-80E9-EF62BEC4A3B0"
+    },
+    {
+      "class": "shapePath",
+      "id": "5D4EF7AC-BC4F-44FA-BC14-4F17B5F3D180"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "21729EDA-BDCA-482A-859C-B2A8076BD2CC"
+    },
+    {
+      "class": "shapePath",
+      "id": "B0173B69-E885-431E-BD4B-60720EF6F06D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F9AC2383-1647-4255-8713-B38E23FB7064"
+    },
+    {
+      "class": "shapePath",
+      "id": "CCC8ED53-0523-461C-B8A7-027039593650"
+    }
+  ],
+  "name": "Asset 1",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

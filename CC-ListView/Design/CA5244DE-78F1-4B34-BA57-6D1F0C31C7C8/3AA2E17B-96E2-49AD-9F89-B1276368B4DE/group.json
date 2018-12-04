@@ -1,0 +1,72 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "3AA2E17B-96E2-49AD-9F89-B1276368B4DE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 60,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "1FDD6935-B4EC-4F13-9A3A-67EE8B08695B"
+    },
+    {
+      "class": "rectangle",
+      "id": "A49E77B8-8EF1-463A-A8C1-5D6061689938"
+    },
+    {
+      "class": "group",
+      "id": "40FD3017-1F69-44C6-83A5-B2F17FDD4646"
+    },
+    {
+      "class": "group",
+      "id": "AB556C95-B692-486E-8C6E-EE5F477CB60D"
+    },
+    {
+      "class": "group",
+      "id": "3D705E82-E185-4FFC-8994-C7FAE75CB5F6"
+    }
+  ],
+  "name": "Mobile and tablet menu",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

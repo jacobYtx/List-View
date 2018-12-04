@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "CC24E430-C8B0-4DE6-81EA-876E1DE91B35",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 230,
+    "width": 300,
+    "x": 854,
+    "y": 525
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "9C8E35C9-DA24-4293-9606-D2BF212E7D17"
+    },
+    {
+      "class": "text",
+      "id": "1464C610-9B18-41D3-8E54-D94E7AF8E208"
+    },
+    {
+      "class": "group",
+      "id": "EFC20B18-12AE-4490-85E2-774520E5DE70"
+    },
+    {
+      "class": "text",
+      "id": "B0920B21-0C38-4D82-A4B9-C59F2C60C9EA"
+    }
+  ],
+  "name": "gobear tips",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

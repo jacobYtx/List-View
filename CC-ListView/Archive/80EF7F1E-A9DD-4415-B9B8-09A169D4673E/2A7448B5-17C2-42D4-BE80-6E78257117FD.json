@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "2A7448B5-17C2-42D4-BE80-6E78257117FD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 38,
+    "width": 500,
+    "x": 156,
+    "y": 66
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "highlights - long",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "1E8D95DB-9AF4-4D57-92BA-DB038B06A76D_stringValue",
+      "value": "8% cash back on ALL your dining spends globally with min. spend of $888 per month"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "189335C8-1A6F-4DED-AB06-3C2A85EA679C_symbolID",
+      "value": "7F3B4FAD-7365-47F8-91D5-96589830B6B0"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "301C4620-8147-474A-A030-2B1FEF3341EB",
+  "verticalSpacing": 0
+}

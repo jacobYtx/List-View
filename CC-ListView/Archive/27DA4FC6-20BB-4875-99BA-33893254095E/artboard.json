@@ -1,0 +1,178 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "27DA4FC6-20BB-4875-99BA-33893254095E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1117,
+    "width": 320,
+    "x": 3537,
+    "y": 2155
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "C29304DE-66F9-4137-B983-911FD423F1FE"
+    },
+    {
+      "class": "group",
+      "id": "3E95B17B-5EA4-4C4B-8559-015B90704E21"
+    },
+    {
+      "class": "group",
+      "id": "86FCCF6F-138C-47C5-AFAE-0832295219D1"
+    },
+    {
+      "class": "text",
+      "id": "6416A475-CBAD-46E1-BC74-BEF54454DEC9"
+    },
+    {
+      "class": "bitmap",
+      "id": "98A67147-A0C3-4CB7-BFBE-3B1106717DB5"
+    },
+    {
+      "class": "text",
+      "id": "80BC8A02-E7BC-4FF3-8E96-DE1143177F55"
+    },
+    {
+      "class": "text",
+      "id": "0A40240F-C91E-4CBB-BCB3-18262E90A8DE"
+    },
+    {
+      "class": "group",
+      "id": "F4D47C23-9BD1-451D-92C3-30468AE9F5EE"
+    },
+    {
+      "class": "group",
+      "id": "DB0E64B3-A879-43BE-B284-F9F84FE26AA2"
+    },
+    {
+      "class": "group",
+      "id": "CEB93503-445C-47CD-B476-76BD7F6B8B6F"
+    },
+    {
+      "class": "group",
+      "id": "4A06A52F-B58A-4F72-BF7A-36EF99B0CAB1"
+    },
+    {
+      "class": "group",
+      "id": "BBF95FDB-AA4A-4877-913E-590947288C8C"
+    },
+    {
+      "class": "group",
+      "id": "751C86DE-335D-41D7-A072-9061847DD174"
+    },
+    {
+      "class": "group",
+      "id": "81B3ED32-AB93-4B2C-93C4-DC24DB79353D"
+    },
+    {
+      "class": "text",
+      "id": "593DC429-8B6C-4746-87DA-E46425DE60A7"
+    },
+    {
+      "class": "bitmap",
+      "id": "C70A914A-6B32-47E7-8074-4F8F3E089341"
+    },
+    {
+      "class": "text",
+      "id": "33CE2CC9-91F1-4D1F-B574-BD862853EBA6"
+    },
+    {
+      "class": "text",
+      "id": "3666F475-DDB0-4D89-9176-90002432CB85"
+    },
+    {
+      "class": "group",
+      "id": "1C1CA739-94A8-4492-BB75-BC1919B4F85B"
+    },
+    {
+      "class": "group",
+      "id": "1541AA27-B0D0-4557-89FB-BCECA4C64DF4"
+    },
+    {
+      "class": "group",
+      "id": "A36C1B03-BE29-431F-8E54-DBFBE2755DE1"
+    },
+    {
+      "class": "group",
+      "id": "837A865C-C884-4C17-A067-C621A3EB46E1"
+    },
+    {
+      "class": "group",
+      "id": "4D326B13-1911-44C4-979A-73A3AF9658BC"
+    }
+  ],
+  "name": "Result Page Mobile - ccEnhancement Copy",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 568,
+    "name": "iPhone SE",
+    "offersLandscapeVariant": 1,
+    "width": 320
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "07194D08-8CBF-4DAF-B481-E8E6BA9FD862",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 15,
+    "width": 192,
+    "x": 0,
+    "y": 27
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Category List item - Radio button - Unselect",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "16C0132C-AB10-4305-8975-9EFC31D5F948_symbolID",
+      "value": "A066EC0D-F500-4446-A8E4-65DBAB2FFD1F"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "51DBBDA3-03F8-48FC-BEDD-70B34948324A_stringValue",
+      "value": "Airmiles"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D26D12FB-E7D3-4539-90D5-ED4E5B5472B4",
+  "verticalSpacing": 0
+}

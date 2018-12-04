@@ -1,0 +1,111 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "90B8896F-6E34-4320-BF00-133973332200",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 125,
+    "width": 112,
+    "x": 571.8000000000001,
+    "y": 49.2
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "E35256B9-3AD8-4B25-BB07-D1FF3FBD649F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "91355258-BDCF-4F5F-9C6E-4A55486BD164"
+    },
+    {
+      "class": "shapePath",
+      "id": "5A2512B8-0510-4408-96AC-7228D9284BC0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "265A6487-7579-4446-8D03-F409179A0DC5"
+    },
+    {
+      "class": "shapePath",
+      "id": "7BB25E0F-8FB2-44F9-9B72-FB3585251190"
+    },
+    {
+      "class": "shapePath",
+      "id": "5FAC89E4-A0CE-4F68-879D-BFCD6D36137A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "28D24052-83E1-4DA3-B22A-1E363E3BA800"
+    },
+    {
+      "class": "shapePath",
+      "id": "501BAA8A-3D90-4FFE-ABAD-E86C9E844902"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6B6BBA5E-C143-40E4-8681-6B81BE4E8A9A"
+    },
+    {
+      "class": "shapePath",
+      "id": "AFF086B5-055B-41E5-8C4C-47C6B479DD77"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "75CAD40F-CE91-4B38-A5D5-E1290740D821"
+    },
+    {
+      "class": "shapePath",
+      "id": "ECEFDA9E-54E4-472B-B88C-7262391E708C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4FBF5D57-44CC-49BC-9408-9A287A6F520D"
+    },
+    {
+      "class": "shapePath",
+      "id": "BCBF1AB5-E97F-4CEB-A300-F30ADF642E4A"
+    }
+  ],
+  "name": "Asset 1",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 6,
+      "saturation": 1,
+      "type": 0
+    },
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

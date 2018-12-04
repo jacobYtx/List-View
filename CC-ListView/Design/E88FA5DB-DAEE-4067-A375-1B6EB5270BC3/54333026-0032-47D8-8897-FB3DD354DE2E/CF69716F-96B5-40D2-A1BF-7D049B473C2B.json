@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "CF69716F-96B5-40D2-A1BF-7D049B473C2B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 38,
+    "width": 500,
+    "x": 156,
+    "y": 66
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "highlights - long",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "1E8D95DB-9AF4-4D57-92BA-DB038B06A76D_stringValue",
+      "value": "3X Reward Points per $ eligible spend at participating merchants in participating CapitaLand Malls"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "189335C8-1A6F-4DED-AB06-3C2A85EA679C_symbolID",
+      "value": "B9916544-2D14-4FCA-A410-4974F037AFC6"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "301C4620-8147-474A-A030-2B1FEF3341EB",
+  "verticalSpacing": 0
+}

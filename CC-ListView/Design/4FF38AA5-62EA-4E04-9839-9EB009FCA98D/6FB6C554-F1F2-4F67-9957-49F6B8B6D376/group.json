@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "6FB6C554-F1F2-4F67-9957-49F6B8B6D376",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 332,
+    "width": 262,
+    "x": 130,
+    "y": 555
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "EEE1BC03-E822-4C6D-9EC5-ABA7D28EACB0"
+    },
+    {
+      "class": "group",
+      "id": "8E3B118D-DC46-47F0-8B57-8B42360CD0C9"
+    },
+    {
+      "class": "text",
+      "id": "E46D677D-BE62-4468-9F2B-011F9FB0D968"
+    },
+    {
+      "class": "group",
+      "id": "AFF288E0-1BCB-4A2A-BB80-857DD4136CAE"
+    },
+    {
+      "class": "shapePath",
+      "id": "07768536-EC93-443C-B943-21685860FC0F"
+    }
+  ],
+  "name": "Earning Calculator",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

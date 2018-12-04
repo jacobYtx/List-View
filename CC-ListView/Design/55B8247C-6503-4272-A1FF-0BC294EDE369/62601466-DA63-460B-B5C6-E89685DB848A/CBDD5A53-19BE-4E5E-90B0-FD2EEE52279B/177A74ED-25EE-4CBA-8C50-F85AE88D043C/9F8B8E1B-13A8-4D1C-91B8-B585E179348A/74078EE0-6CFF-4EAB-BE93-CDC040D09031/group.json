@@ -1,0 +1,92 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "74078EE0-6CFF-4EAB-BE93-CDC040D09031",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 28,
+    "width": 28,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "159D935C-6013-4D62-8476-D874F79C6F5C"
+    },
+    {
+      "class": "shapePath",
+      "id": "41061DC1-38FD-45CD-9DBB-020C13D66B20"
+    },
+    {
+      "class": "shapePath",
+      "id": "DFB0E807-D620-4053-A76B-57B1B852AF7E"
+    },
+    {
+      "class": "shapePath",
+      "id": "6624071B-F235-4A0C-82C2-135FB08BF5CF"
+    },
+    {
+      "class": "shapePath",
+      "id": "CA884048-9042-486E-9029-73F732279881"
+    },
+    {
+      "class": "shapePath",
+      "id": "D24B7152-A07D-4270-B63A-64DC259DADEA"
+    },
+    {
+      "class": "shapePath",
+      "id": "B3B26201-656A-4FB0-B9E0-D6FF8E54FFFE"
+    }
+  ],
+  "name": "Layer_1",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "4F596B32-E5F6-47D7-AB07-5A43F393D383",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 207,
+    "width": 186,
+    "x": 953,
+    "y": 82
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "66197BC4-0801-4EBE-B78C-EAD7CF2F9856"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "73975DCB-3253-40FE-A698-F297959FA93F"
+    },
+    {
+      "class": "shapePath",
+      "id": "78A6273C-814A-411C-AF29-C3989621388B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "57D0CE3F-5B64-4488-B421-A0D4D5510759"
+    },
+    {
+      "class": "shapePath",
+      "id": "B2769EEF-06AC-4DD9-8553-301B38F7F2AA"
+    },
+    {
+      "class": "shapePath",
+      "id": "66621D65-9891-4CB0-9726-9AF6A67523F8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B7A86B8A-E8A4-4B1E-B8B9-0AFDE4B98A69"
+    },
+    {
+      "class": "shapePath",
+      "id": "90CDBB5F-DF81-4E5D-A9AE-5CE128749AA8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C9CA61BC-AE6E-4EDC-9622-B18381D724C9"
+    },
+    {
+      "class": "shapePath",
+      "id": "73CA16A5-C995-4CDF-9CDA-2651B52796F7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6DEDC4A3-EC03-4A74-894B-B14239893187"
+    },
+    {
+      "class": "shapePath",
+      "id": "B1FCE3CC-5F20-4E43-95B1-566A32215DBC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3F13C560-C587-4C9B-90E4-2E99BEC801F6"
+    },
+    {
+      "class": "shapePath",
+      "id": "C995C1C6-1B1C-4885-A59D-675DCD91F531"
+    }
+  ],
+  "name": "Asset 1",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

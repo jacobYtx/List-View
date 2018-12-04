@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "9F567E32-8AF5-4A52-BCEA-5539A5C7BCCB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 126,
+    "width": 504,
+    "x": 48,
+    "y": 687
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "382365DF-182D-4441-A016-DBD0B8CF7C71"
+    },
+    {
+      "class": "text",
+      "id": "149CB72F-0F40-4DBE-BD91-39A00A21490D"
+    },
+    {
+      "class": "text",
+      "id": "DBEF4E5C-7404-4903-84D2-B3D47262049C"
+    },
+    {
+      "class": "text",
+      "id": "15C1B84C-9E34-4F58-B0EB-B88908EAF437"
+    },
+    {
+      "class": "bitmap",
+      "id": "DA23A204-74BC-4EF7-B7EB-174FED073C52"
+    }
+  ],
+  "name": "Group 32 Copy 2",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

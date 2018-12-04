@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "70F445B2-C5F5-44AB-8FC3-7AA072D3C694",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 64,
+    "width": 302,
+    "x": 0,
+    "y": -1
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "8C9CA3B4-9563-479C-B966-C3E82F36E078"
+    },
+    {
+      "class": "group",
+      "id": "59550BFD-53A9-4E7C-BAE6-AF09D1EE8B03"
+    },
+    {
+      "class": "group",
+      "id": "9B55D327-DBD9-44B8-996F-7CAEA0C35DE0"
+    },
+    {
+      "class": "shapePath",
+      "id": "5E4EF6FF-4891-4995-8EC9-BD7068F7B41D"
+    }
+  ],
+  "name": "Modal footer",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

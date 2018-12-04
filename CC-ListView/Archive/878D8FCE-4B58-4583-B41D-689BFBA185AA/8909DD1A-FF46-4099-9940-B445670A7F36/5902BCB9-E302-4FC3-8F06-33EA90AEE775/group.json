@@ -1,0 +1,102 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "5902BCB9-E302-4FC3-8F06-33EA90AEE775",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 207,
+    "width": 186,
+    "x": 953,
+    "y": 82
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "AA79CDE1-C933-40E1-A836-FE25CE0156F6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A777C569-F683-4F21-B0BD-62F4BAD1017F"
+    },
+    {
+      "class": "shapePath",
+      "id": "7606E586-AE6E-4EB3-A9BE-3B1106C24047"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "549B9C98-496E-43CF-8527-64EE5FBBB96C"
+    },
+    {
+      "class": "shapePath",
+      "id": "6DACBD9B-5396-4F8E-9505-9744737ACDA2"
+    },
+    {
+      "class": "shapePath",
+      "id": "31429406-1075-41FC-9665-6E861E1A1DE4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "99F9F953-D6F2-427E-A494-40E788DC9F56"
+    },
+    {
+      "class": "shapePath",
+      "id": "8757FB85-DE70-496E-8A3B-6E3FA2E5828A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "46016BC3-4CA6-45C5-9F0C-E2B74821BB8A"
+    },
+    {
+      "class": "shapePath",
+      "id": "5B370006-F8E7-43C0-BB80-368F27F9C72A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "00B9F7DB-C76C-4732-911F-15BF5CDA114E"
+    },
+    {
+      "class": "shapePath",
+      "id": "C9769D23-B5E5-452A-9325-3C6F9862CB39"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FBA45AE0-EF81-4675-A116-8DBFABB9688F"
+    },
+    {
+      "class": "shapePath",
+      "id": "4D2045E5-8BBC-4E65-A1CC-B1598AA3C91E"
+    }
+  ],
+  "name": "Asset 1",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

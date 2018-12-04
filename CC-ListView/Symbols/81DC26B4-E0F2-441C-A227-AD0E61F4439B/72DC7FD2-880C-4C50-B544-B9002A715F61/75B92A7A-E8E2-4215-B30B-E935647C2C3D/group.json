@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "75B92A7A-E8E2-4215-B30B-E935647C2C3D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 20,
+    "width": 22,
+    "x": 953,
+    "y": 20
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "ED868EE5-8995-4FDF-B10F-1833552E14ED"
+    },
+    {
+      "class": "rectangle",
+      "id": "AC30A454-4408-4AE6-89D4-77D2FF342A90"
+    },
+    {
+      "class": "rectangle",
+      "id": "041596E1-4E9B-4AFE-A153-8A7FA8262544"
+    }
+  ],
+  "name": "Hamburder icon",
+  "nameIsFixed": true,
+  "originalObjectID": "BBEE207A-37C6-4779-A739-2A5AD12D0B47",
+  "resizingConstraint": 44,
+  "resizingType": 1,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

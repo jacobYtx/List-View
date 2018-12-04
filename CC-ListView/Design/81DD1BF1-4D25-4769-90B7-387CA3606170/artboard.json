@@ -1,0 +1,168 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "81DD1BF1-4D25-4769-90B7-387CA3606170",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1147,
+    "width": 1400,
+    "x": -1534,
+    "y": 445
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "1676A7EB-6713-4B79-AE6D-7C38B9CDBD1F"
+    },
+    {
+      "class": "text",
+      "id": "222F8DE7-7127-4118-B491-ED05217AF0BD"
+    },
+    {
+      "class": "text",
+      "id": "06016D4F-B794-439D-812B-8D92DD94DC13"
+    },
+    {
+      "class": "text",
+      "id": "2146FD5A-CD19-44F4-A44C-E678496DA3BF"
+    },
+    {
+      "class": "text",
+      "id": "9C5FA0B7-EAC3-4350-A360-A21F5F8D931F"
+    },
+    {
+      "class": "text",
+      "id": "E9630F1D-FB5A-4DA6-9E27-787F4CA8C5A8"
+    },
+    {
+      "class": "text",
+      "id": "FBD9F70C-F398-4F40-AC5A-E457C7F1B614"
+    },
+    {
+      "class": "group",
+      "id": "803D6FDC-FFBA-4BB7-8A91-0A69D052FD21"
+    },
+    {
+      "class": "group",
+      "id": "524C1856-DFBE-48B8-AAFF-C961550B1410"
+    },
+    {
+      "class": "text",
+      "id": "BE0EC2AE-FAF0-4CC8-95DD-297EA6A14D5E"
+    },
+    {
+      "class": "group",
+      "id": "636BB7FE-4650-40DC-B274-A86692CE3D5C"
+    },
+    {
+      "class": "group",
+      "id": "99BA30FB-14E5-441D-AF74-FA4E0314C394"
+    },
+    {
+      "class": "group",
+      "id": "7953E1BF-4DFB-42D4-8BCF-5D9A0AA6F25F"
+    },
+    {
+      "class": "group",
+      "id": "A83C94B8-44B8-41FF-B278-AFE47345CB40"
+    },
+    {
+      "class": "group",
+      "id": "ADFF2434-96A1-45CE-8123-1E6B4308F48F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6824180E-7128-4571-9B28-9F04971B90AD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "96E4D873-3C22-4DE4-9F59-A88AADFB64E4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6B94D98C-5619-44D1-A07B-4CB9694F1090"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "296199BE-D7DF-4893-B54C-671715E817CF"
+    },
+    {
+      "class": "text",
+      "id": "EA67FA04-F007-4E88-B468-E2BFCA7B5436"
+    }
+  ],
+  "name": "Rewards calculator instruction",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

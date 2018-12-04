@@ -1,0 +1,102 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "9B096A9F-24D4-497F-9BE7-8003D3598057",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 207,
+    "width": 186,
+    "x": 953,
+    "y": 82
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "99C40B9A-15DD-4053-931E-93FD3EA10FE3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B9E83B53-CE2B-4591-AA75-20B4FDA2BA26"
+    },
+    {
+      "class": "shapePath",
+      "id": "F6EEF2E2-FA4A-4A24-9817-06E014877513"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DAE341EC-B419-4BB6-8AA4-51CDA504C0D3"
+    },
+    {
+      "class": "shapePath",
+      "id": "0F2E5D08-44F8-4BA0-B2E1-ADBA0B06F4DB"
+    },
+    {
+      "class": "shapePath",
+      "id": "15AACAAB-9AFD-4675-A753-E6985B952991"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "73D82A69-9AD8-4715-98A5-241E9D1E488D"
+    },
+    {
+      "class": "shapePath",
+      "id": "1059CAE6-F7E7-4103-9C6A-7F20720E34E9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "48E9925D-BEF3-4BF7-9103-4341D2C449B1"
+    },
+    {
+      "class": "shapePath",
+      "id": "9BB2FDF0-938B-4F34-8570-7C680F326F92"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "67F43D6F-5BE0-4827-9AFF-5CB8B98368EA"
+    },
+    {
+      "class": "shapePath",
+      "id": "F80E1ED0-5D20-49FA-9C04-822D3DE18A40"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4E50273C-5D0C-4807-90BE-32A714EB441E"
+    },
+    {
+      "class": "shapePath",
+      "id": "4F2FAE8F-E53F-4DE1-A88E-78F34459FEC1"
+    }
+  ],
+  "name": "Asset 1",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

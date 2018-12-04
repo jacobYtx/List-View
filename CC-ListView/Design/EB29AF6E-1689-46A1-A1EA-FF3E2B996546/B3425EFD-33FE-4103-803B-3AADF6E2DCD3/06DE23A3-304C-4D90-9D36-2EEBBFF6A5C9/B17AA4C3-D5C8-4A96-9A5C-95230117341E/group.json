@@ -1,0 +1,102 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "B17AA4C3-D5C8-4A96-9A5C-95230117341E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 207,
+    "width": 186,
+    "x": 953,
+    "y": 82
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "5D5ED709-CD6A-4244-A0D1-98025ABFF7D6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "28F4CA8A-DBC1-4D6B-A807-1BDE6973111F"
+    },
+    {
+      "class": "shapePath",
+      "id": "F12452E9-75B2-4D67-B7B6-3ADC894D7CF9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8FDF36B7-90D6-42AF-8276-708B58A3DBA6"
+    },
+    {
+      "class": "shapePath",
+      "id": "A8315F14-FB11-48E4-97C1-5348A7A932A4"
+    },
+    {
+      "class": "shapePath",
+      "id": "47ADE560-4303-4E3B-8684-9B6C7D888A5D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6EE2050E-854A-4786-BC21-DBC958CC9D99"
+    },
+    {
+      "class": "shapePath",
+      "id": "FDA24811-0A95-4F87-842A-1668B492D810"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B4819969-4BB8-4868-A653-D791E4932C6B"
+    },
+    {
+      "class": "shapePath",
+      "id": "B6AD9D76-8DF3-40CD-B534-387C7D1CE057"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AC6DF005-A434-456A-999B-EC01D56CC7B0"
+    },
+    {
+      "class": "shapePath",
+      "id": "A5B0245C-9C3D-4641-BCE9-89BBF5E4AAE1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7DB9268C-BCF2-435F-9741-FEC37A3D7FAE"
+    },
+    {
+      "class": "shapePath",
+      "id": "3F537456-596A-46AE-A979-CD8FC2C602C9"
+    }
+  ],
+  "name": "Asset 1",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

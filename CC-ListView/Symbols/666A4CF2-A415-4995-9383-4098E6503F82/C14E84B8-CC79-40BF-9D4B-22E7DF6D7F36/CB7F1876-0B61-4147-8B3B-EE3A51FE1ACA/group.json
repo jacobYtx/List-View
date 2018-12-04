@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "CB7F1876-0B61-4147-8B3B-EE3A51FE1ACA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 10,
+    "width": 90,
+    "x": 143,
+    "y": 75
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "text",
+      "id": "1627DF7D-D8C1-475D-B7B5-89A7991E2EAF"
+    },
+    {
+      "class": "text",
+      "id": "C4C19E98-807F-4C5C-ACB4-F68484A799C5"
+    },
+    {
+      "class": "text",
+      "id": "B10CDF30-B600-45C2-B927-1E38B5BC2156"
+    }
+  ],
+  "name": "Social",
+  "nameIsFixed": true,
+  "originalObjectID": "CB7F1876-0B61-4147-8B3B-EE3A51FE1ACA",
+  "resizingConstraint": 45,
+  "resizingType": 3,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

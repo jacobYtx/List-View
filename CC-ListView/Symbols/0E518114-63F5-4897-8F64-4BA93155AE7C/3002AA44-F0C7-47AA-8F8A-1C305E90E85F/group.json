@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "3002AA44-F0C7-47AA-8F8A-1C305E90E85F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 42,
+    "width": 376,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "4AF7853F-BCCC-4E19-BA98-47BD565EEEA7"
+    },
+    {
+      "class": "rectangle",
+      "id": "82BCA796-2CD4-42EB-9704-E11955B2C2B3"
+    },
+    {
+      "class": "text",
+      "id": "07C1245D-E899-4980-9ADC-D86B39510422"
+    },
+    {
+      "class": "rectangle",
+      "id": "7C36C07D-6E9A-4D57-AACA-502F9AF73055"
+    },
+    {
+      "class": "text",
+      "id": "6A3F3BA1-DCF8-42A3-B576-FEF24A6668B6"
+    }
+  ],
+  "name": "Detail sticky CTA group - mobile",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

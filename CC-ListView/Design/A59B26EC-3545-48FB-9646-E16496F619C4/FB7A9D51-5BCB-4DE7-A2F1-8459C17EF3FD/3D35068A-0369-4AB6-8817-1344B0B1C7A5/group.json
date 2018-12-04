@@ -1,0 +1,102 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "3D35068A-0369-4AB6-8817-1344B0B1C7A5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 207,
+    "width": 186,
+    "x": 953,
+    "y": 82
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "766772E3-61A5-4743-8466-BC0B14BCFD31"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A1BD9D75-E51D-49BE-B473-4FAE4C34E370"
+    },
+    {
+      "class": "shapePath",
+      "id": "623D3C10-37F4-4262-AF6B-1FD326E2A82A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7D6116D1-7405-4465-8C0F-0DF95F134B98"
+    },
+    {
+      "class": "shapePath",
+      "id": "8B02C846-13A7-4951-8CCA-6B8C059263E5"
+    },
+    {
+      "class": "shapePath",
+      "id": "6D54C940-D112-4C3B-A05A-0DA906D2B00E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F9D2CE57-2804-4389-BEF2-DB233D1CCBE0"
+    },
+    {
+      "class": "shapePath",
+      "id": "C977EA62-2036-4748-9D34-390531074768"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D7C93D79-9A1D-430F-81B2-34CA51EFD435"
+    },
+    {
+      "class": "shapePath",
+      "id": "092C0F35-8B23-4DBE-919B-E87174C60CBC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A2847F4B-0DF6-45AC-A8BB-6B0F76DFD404"
+    },
+    {
+      "class": "shapePath",
+      "id": "745FA89E-1D19-4165-A47F-641A2374C78A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "30CE3A26-C88E-4784-BC88-FF0671035675"
+    },
+    {
+      "class": "shapePath",
+      "id": "F64F28AB-5AF8-4972-9797-E3ACB72CF375"
+    }
+  ],
+  "name": "Asset 1",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

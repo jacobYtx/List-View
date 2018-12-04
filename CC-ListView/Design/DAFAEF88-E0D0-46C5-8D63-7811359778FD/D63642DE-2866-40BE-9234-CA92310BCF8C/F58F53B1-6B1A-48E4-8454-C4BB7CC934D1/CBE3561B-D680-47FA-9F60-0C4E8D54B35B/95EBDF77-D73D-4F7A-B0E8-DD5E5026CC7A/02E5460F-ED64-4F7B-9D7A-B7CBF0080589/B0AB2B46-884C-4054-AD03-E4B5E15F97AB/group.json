@@ -1,0 +1,91 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "B0AB2B46-884C-4054-AD03-E4B5E15F97AB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 58,
+    "width": 102,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "EA436F7A-503D-472B-80D7-55B99C80292F"
+    },
+    {
+      "class": "rectangle",
+      "id": "420D4045-291C-4603-A0CC-919C28A6BF68"
+    },
+    {
+      "class": "rectangle",
+      "id": "423189DC-4807-4366-9F1F-8E10F770B98F"
+    },
+    {
+      "class": "rectangle",
+      "id": "77B9A9BB-9C81-4057-9821-65459D9C4203"
+    },
+    {
+      "class": "rectangle",
+      "id": "C27C446C-EBE7-4E10-AE36-5C16358B5558"
+    },
+    {
+      "class": "rectangle",
+      "id": "E0963D5B-778A-4BC4-929C-85F71A07C3FA"
+    },
+    {
+      "class": "rectangle",
+      "id": "40CC88A2-0D94-4AA0-992E-DC31E340D9CE"
+    },
+    {
+      "class": "rectangle",
+      "id": "1CB015AB-E595-4731-A7D9-593AB8481671"
+    },
+    {
+      "class": "rectangle",
+      "id": "CE174415-C39F-4055-8160-A130B814B967"
+    }
+  ],
+  "name": "Rectangle 4",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 6,
+      "saturation": 1,
+      "type": 0
+    },
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

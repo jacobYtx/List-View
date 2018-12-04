@@ -1,0 +1,102 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "71019169-5D9C-41E6-9C7C-31F769718C2B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 207,
+    "width": 186,
+    "x": 953,
+    "y": 82
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "EAB2B027-5088-4135-8BEC-0C4BAD014D40"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FB45DCAC-84E9-47D6-A476-0F5057E0B55D"
+    },
+    {
+      "class": "shapePath",
+      "id": "36FED56B-5882-4013-BE09-76CEA4F107ED"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1E3BE134-6FF9-493F-93B5-701D10E09FE6"
+    },
+    {
+      "class": "shapePath",
+      "id": "4473FC3B-EF01-46CB-9873-CB2DDA2BFE9C"
+    },
+    {
+      "class": "shapePath",
+      "id": "79ED6D41-D238-4D3D-8CD6-324A675A5213"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B75C6AB6-788A-48CE-AB61-A066F2C8607F"
+    },
+    {
+      "class": "shapePath",
+      "id": "BCF8843A-CA7E-4434-BC45-19574255CDDA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "02C34339-12FC-4B3E-B8CA-0AE08407DF71"
+    },
+    {
+      "class": "shapePath",
+      "id": "6952DC3F-D7A9-4309-9FB5-B0EAD13055A8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "334316C2-C341-4CD1-90A2-1C474BFFC2B9"
+    },
+    {
+      "class": "shapePath",
+      "id": "7708FA32-CBFE-4B40-89C7-801FF88158E9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9E6F78DD-B757-4175-A3A1-A7E09FDAACDD"
+    },
+    {
+      "class": "shapePath",
+      "id": "1ADFB937-4FB4-4013-8D9A-A40A0BD654A2"
+    }
+  ],
+  "name": "Asset 1",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

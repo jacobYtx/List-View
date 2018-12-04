@@ -1,0 +1,102 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "8B8C0DBC-5BB4-4318-96FE-96AE3F86DA63",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 207,
+    "width": 186,
+    "x": 953,
+    "y": 82
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "F4677842-C2D0-44D7-A6ED-7CFA5DC059DD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5B9DF669-EADC-4812-AC27-6CEAB30F3F16"
+    },
+    {
+      "class": "shapePath",
+      "id": "9D4DE7EA-4E78-4BD5-B6DC-D00E64074E6C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7B32E357-E9E9-4B29-AE04-DC13624F8014"
+    },
+    {
+      "class": "shapePath",
+      "id": "1DDD6683-BA01-438E-8A4A-EDEF6976F67B"
+    },
+    {
+      "class": "shapePath",
+      "id": "9447C6B5-3C52-4F18-BBC4-84A51479CDCD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C95A9C0B-521C-4FB4-A3F6-A9D5CAE29FE2"
+    },
+    {
+      "class": "shapePath",
+      "id": "7B7390E9-CEF4-48FC-AF3E-AD0A354FF202"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "889001D5-2B55-4AAE-BA1F-B3C2FFCF13EF"
+    },
+    {
+      "class": "shapePath",
+      "id": "32E1988A-67B4-465E-AA94-778121BF24F6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "55FB300A-0BF3-41AD-A4A1-BE2FB4AED51F"
+    },
+    {
+      "class": "shapePath",
+      "id": "26157F72-22CB-441D-A174-A21B82CD955F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E725C50B-4FB6-451C-98AE-1D567C4A74AF"
+    },
+    {
+      "class": "shapePath",
+      "id": "594279F0-6990-42C4-B242-B51E299D7963"
+    }
+  ],
+  "name": "Asset 1",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

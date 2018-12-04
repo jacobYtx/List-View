@@ -1,0 +1,96 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "6F0FC9FF-41C5-4625-9E17-DB92BECB89DA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 235,
+    "width": 343,
+    "x": 15,
+    "y": 253
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "81A9BAFD-7AF9-4B65-BA80-7EE5D2ED06A3"
+    },
+    {
+      "class": "group",
+      "id": "85E6FE50-EF67-4D05-8C5F-D004FD601C78"
+    },
+    {
+      "class": "group",
+      "id": "A553058E-E15C-4061-9D53-44F7F00D61C2"
+    },
+    {
+      "class": "bitmap",
+      "id": "EE034279-4646-458D-A6A2-A39CDBDDF9D3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0337E5E1-9E8D-42DB-8DE1-8D44B4171090"
+    },
+    {
+      "class": "group",
+      "id": "806CF2E4-BD3F-4539-A967-5C6F484FC6C7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "ADE42478-680C-4C58-93D5-B9F814BF6C6F"
+    }
+  ],
+  "name": "Group 4 Copy 6",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 12,
+        "color": {
+          "_class": "color",
+          "alpha": 0.25,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 1,
+        "spread": 0
+      }
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "D63642DE-2866-40BE-9234-CA92310BCF8C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 480,
+    "width": 840,
+    "x": 80,
+    "y": 1038
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "22A05A62-6F9A-4D71-A678-5A2DC2D4B5F7"
+    },
+    {
+      "class": "group",
+      "id": "0C6726DF-7980-4FA4-9093-84683C8ECB91"
+    },
+    {
+      "class": "group",
+      "id": "F58F53B1-6B1A-48E4-8454-C4BB7CC934D1"
+    },
+    {
+      "class": "group",
+      "id": "5EA8D213-86E4-4AEE-8577-416BBDAAC44C"
+    }
+  ],
+  "name": "btn - Previous + Group 23 Copy + btn - Previous Mask",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 6,
+      "saturation": 1,
+      "type": 0
+    },
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

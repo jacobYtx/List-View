@@ -1,0 +1,114 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "3DD1F58A-D137-4122-B177-BDDC3CB74EBF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 485,
+    "width": 848,
+    "x": 422,
+    "y": 375
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "C41C541E-371D-4DC8-A346-AD6D2173D4EF"
+    },
+    {
+      "class": "shapePath",
+      "id": "918D544A-6080-44F3-97C5-42C4A3D00ADA"
+    },
+    {
+      "class": "text",
+      "id": "ED8F448E-3274-4BF4-90D9-7E170FC51F8A"
+    },
+    {
+      "class": "group",
+      "id": "04F1A2A4-0A6A-4E93-B1D2-6E8B732A58F4"
+    },
+    {
+      "class": "group",
+      "id": "C6087B8C-3F2A-4D93-AE17-3C77F4590750"
+    },
+    {
+      "class": "shapePath",
+      "id": "F0D9DDE0-10C6-40D5-941F-283BB9883A1D"
+    },
+    {
+      "class": "group",
+      "id": "3BD6EB16-3C93-4268-9555-5300BB8CE615"
+    },
+    {
+      "class": "rectangle",
+      "id": "6A20ED41-4B1F-4460-B1A0-0857001FC1BC"
+    },
+    {
+      "class": "group",
+      "id": "6E075CFB-8097-4F07-935B-F394675B33AF"
+    },
+    {
+      "class": "rectangle",
+      "id": "1093DA5C-E443-47C3-9A95-1C975E0364F3"
+    },
+    {
+      "class": "text",
+      "id": "A08197B0-B355-4CCF-BDB5-A3DCE94606C1"
+    },
+    {
+      "class": "text",
+      "id": "0F9B9129-AC85-488E-A5F8-4BA3B9F38654"
+    },
+    {
+      "class": "text",
+      "id": "DFAAA22C-4188-4685-B90D-B90053C0990F"
+    },
+    {
+      "class": "text",
+      "id": "3411A1FF-9CD9-4705-B2F1-CC4BAA05BBAA"
+    },
+    {
+      "class": "group",
+      "id": "ED3CBBB3-0557-4B9B-A67B-FEC321084264"
+    },
+    {
+      "class": "group",
+      "id": "4BD35615-D984-432C-AD16-9B323C28E8FD"
+    },
+    {
+      "class": "bitmap",
+      "id": "37F35FA2-5751-403B-AC11-4AB0F910140E"
+    }
+  ],
+  "name": "Group 13 Copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

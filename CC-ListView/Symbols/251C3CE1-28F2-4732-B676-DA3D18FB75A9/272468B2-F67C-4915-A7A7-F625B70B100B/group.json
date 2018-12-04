@@ -1,0 +1,86 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "272468B2-F67C-4915-A7A7-F625B70B100B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 485,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "0F05A146-09FA-4985-A65D-D627D467AE0C"
+    },
+    {
+      "class": "text",
+      "id": "27CBE55A-EEC0-4A27-9409-2AC5A06FAD7B"
+    },
+    {
+      "class": "text",
+      "id": "32B2E582-5DB4-45CF-8D02-AB011CE40B7A"
+    },
+    {
+      "class": "group",
+      "id": "97150859-9165-4B79-BE60-29252978A974"
+    },
+    {
+      "class": "group",
+      "id": "DE08F794-2151-48D4-BFFC-D9D3866D59F4"
+    },
+    {
+      "class": "group",
+      "id": "819E2C77-3B9C-429C-82F8-7413790FC199"
+    },
+    {
+      "class": "group",
+      "id": "95C2D09C-B1AE-4C80-B095-7A76139B1093"
+    },
+    {
+      "class": "group",
+      "id": "928F9054-F912-4907-9BA5-98061C19F7C0"
+    },
+    {
+      "class": "text",
+      "id": "2130D5B6-652C-4942-ADD1-D7DA696117A5"
+    },
+    {
+      "class": "group",
+      "id": "2911F164-6E11-432D-9233-43D58A47E76A"
+    }
+  ],
+  "name": "Product Score Card - Desktop",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

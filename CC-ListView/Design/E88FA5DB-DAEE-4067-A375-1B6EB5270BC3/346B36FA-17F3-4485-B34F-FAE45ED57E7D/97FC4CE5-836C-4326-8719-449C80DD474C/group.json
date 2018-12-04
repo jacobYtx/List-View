@@ -1,0 +1,102 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "97FC4CE5-836C-4326-8719-449C80DD474C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 207,
+    "width": 186,
+    "x": 953,
+    "y": 82
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "DB8E313A-AF4F-4ECF-84C9-D2BC720D264C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CFE3520D-2A12-42A7-8FB5-CFFB3752D952"
+    },
+    {
+      "class": "shapePath",
+      "id": "E0ED9AE6-D9DD-481D-B3D9-D8A3D4ABCC1C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "410E7926-48F2-46D7-9941-B0EC9262C569"
+    },
+    {
+      "class": "shapePath",
+      "id": "659AD11F-A9B8-4F1B-B57B-9D7C8BB2A852"
+    },
+    {
+      "class": "shapePath",
+      "id": "8933AA6F-A494-4B11-B619-CC1902D5FE53"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BE974228-4EBA-4168-90C7-468DDC64DC6E"
+    },
+    {
+      "class": "shapePath",
+      "id": "98D884C5-C84F-4447-9BD3-9CA2C552EDB6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F3DD4063-E308-4581-83BB-5607AE49ACB8"
+    },
+    {
+      "class": "shapePath",
+      "id": "B2487D33-7B17-4556-A8C4-AC411D947D19"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8B6A6F0B-EC84-4008-9BD0-F3CC9CFDC366"
+    },
+    {
+      "class": "shapePath",
+      "id": "9759A5F0-7E6A-4048-95BD-269ED02083AD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "65D022AB-B5C1-4E24-B766-C91E4DB4B189"
+    },
+    {
+      "class": "shapePath",
+      "id": "3C324F2A-B3CF-4831-BEC3-68A8812F352E"
+    }
+  ],
+  "name": "Asset 1",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
